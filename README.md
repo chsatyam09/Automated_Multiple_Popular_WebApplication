@@ -1,5 +1,5 @@
 # Web Testing Automation
-This repository contains automated testing scripts for multiple popular websites, including Mynta, Nykaa, BigBasket, Honda, Ajio, AiranB, MakeMyTrip, and more. The scripts leverage Selenium WebDriver with Java for end-to-end testing. The automation ensures smooth user experiences and functionality across various web platforms.
+This repository contains automated testing scripts for multiple popular websites, including Mynta, Nykaa, BigBasket, Honda, Ajio, AiranB, MakeMyTrip, and more. The scripts leverage Selenium WebDriver with Java for ui functionality testing. The automation ensures smooth user experiences and functionality across various web platforms.
 
 In addition to Selenium for automation, the project uses TestNG and ExtentReports for detailed reporting and test management.
 
